@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "562782198607",
+    "firebase_url": "https://tenkasipolice.firebaseio.com",
+    "project_id": "tenkasipolice",
+    "storage_bucket": "tenkasipolice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562782198607:android:ed5f3f1362eb5591c9033a",
+        "android_client_info": {
+          "package_name": "com.example.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562782198607-5h4rf98u374ggq7qid0k9ag2q9g46agv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaselogin",
+            "certificate_hash": "84f4d3d09515a77886aca779113d15f43b67f2ad"
+          }
+        },
+        {
+          "client_id": "562782198607-5654i5s2hbbcgv0orhaj2vilc2n5rqa6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwsrTYxAFHqAPA77k0vEqYBDLqTD5xn-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562782198607-5654i5s2hbbcgv0orhaj2vilc2n5rqa6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562782198607:android:72978794e5a27463c9033a",
+        "android_client_info": {
+          "package_name": "com.example.loginex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562782198607-gofaba8lchk0mi5jsgg6v83sphbrdjbt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginex",
+            "certificate_hash": "84f4d3d09515a77886aca779113d15f43b67f2ad"
+          }
+        },
+        {
+          "client_id": "562782198607-5654i5s2hbbcgv0orhaj2vilc2n5rqa6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwsrTYxAFHqAPA77k0vEqYBDLqTD5xn-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562782198607-5654i5s2hbbcgv0orhaj2vilc2n5rqa6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562782198607:android:af939dc87b78d3b1c9033a",
+        "android_client_info": {
+          "package_name": "com.example.tenkasi_police"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562782198607-asvrh04csdvj94a4s7uk22knrcvra05u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tenkasi_police",
+            "certificate_hash": "84f4d3d09515a77886aca779113d15f43b67f2ad"
+          }
+        },
+        {
+          "client_id": "562782198607-5654i5s2hbbcgv0orhaj2vilc2n5rqa6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwsrTYxAFHqAPA77k0vEqYBDLqTD5xn-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562782198607-5654i5s2hbbcgv0orhaj2vilc2n5rqa6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562782198607:android:78d27b223c5c97b4c9033a",
+        "android_client_info": {
+          "package_name": "me.samuel.guvifeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562782198607-5654i5s2hbbcgv0orhaj2vilc2n5rqa6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwsrTYxAFHqAPA77k0vEqYBDLqTD5xn-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562782198607-5654i5s2hbbcgv0orhaj2vilc2n5rqa6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
